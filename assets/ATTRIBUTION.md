@@ -1,0 +1,3 @@
+# Asset credits
+
+Technology glyphs are from [Simple Icons](https://github.com/simple-icons/simple-icons), distributed under [CC0 1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md). Brand names and logos belong to their respective owners. The profile banners and icon tile layouts were created for this profile.
